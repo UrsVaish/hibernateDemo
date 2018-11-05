@@ -7,6 +7,9 @@ import org.hibernate.cfg.Configuration;
 
 public class App 
 {
+	public App(){
+
+	}
     public static void main( String[] args )
     {
     	UserDTO dto=new UserDTO();
